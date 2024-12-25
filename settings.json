@@ -1,0 +1,30 @@
+{
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.matchBrackets": "never",
+    "editor.fontFamily": "'Cascadia Code'",
+    "editor.fontLigatures": true,
+    "editor.cursorBlinking": "expand",
+    "editor.cursorWidth": 4,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "window.zoomLevel": -0.75,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "workbench.sideBar.location": "right",
+    "editor.minimap.enabled": false,
+    "editor.scrollbar.vertical": "hidden",
+    "editor.overviewRulerBorder": false,
+    "editor.formatOnSave": true,
+    "editor.guides.indentation": false,
+    "indenticator.width": 0.1,
+    "breadcrumbs.enabled": false,
+    "editor.glyphMargin": false,
+    "indenticator.color.dark": "rgba(255,255,255,0.1)",
+    "terminal.integrated.fontFamily": "Hack Nerd Font",
+    "terminal.integrated.fontWeightBold": "bold",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "workbench.list.smoothScrolling": true,
+    "editor.smoothScrolling": true,
+    "terminal.integrated.cursorStyle": "underline"
+}
